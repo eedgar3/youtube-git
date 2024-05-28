@@ -1,0 +1,112 @@
+commit 41dac5a47e0d796d9426b264aeb73f4c0b4f74e2
+Merge: 1e9ac23 fd5535f
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 23 15:07:08 2024 -0600
+
+    Ultimo cambio
+
+commit 1e9ac23502b9047b558eef6d9399e1db7afc8d42
+Merge: 22d734f c333098
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 23 14:51:17 2024 -0600
+
+    Agregando 2 parrafos
+
+commit fd5535f0adf34eb1ba7e5b08af0f34f2a95421d8
+Merge: 22d734f c333098
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 23 14:51:17 2024 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 22d734f2a80ff65e904da7b629c4102f57187e92
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 23 13:47:41 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c3330983af654817db52dddca12be8b5e00edddd
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 23 13:47:41 2024 -0600
+
+    Agregando las estaciones del año
+
+commit ea55c907c5eb012bfe55d8cf2d133b61d0903873
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Wed May 22 14:46:10 2024 -0600
+
+    Quitando el html que genero el conflicto
+
+commit cde060a3e1276345894bd07bd4532d17e5e43aa3
+Merge: 8bf1f29 f110b7e
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Wed May 22 14:18:02 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit f110b7ec633097c824932ea1ecb6392453d71d54
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Wed May 22 14:08:21 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 8bf1f29bf855eead747b11025261349d2acb37bd
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Wed May 22 14:03:49 2024 -0600
+
+    Agregando style.css al index.html
+
+commit 46343b2574884f801986deaa44c08411e87ae0f9
+Merge: c383629 bc68b19
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Mon May 20 20:07:29 2024 -0600
+
+    Merge branch 'js'
+
+commit bc68b1953b9a9500085a22776af79828a1a22563
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Mon May 20 19:57:18 2024 -0600
+
+    Creando index.js
+
+commit c3836299122e94b9656187f0a149c4e0e051c94a
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Mon May 20 19:45:55 2024 -0600
+
+    Creando style.css
+
+commit bcc7e660d1ff14e8d7d57e404f16d99bac769377
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Mon May 20 19:40:27 2024 -0600
+
+    Creando index.html
+
+commit 49d00a8e8da38ed0b7feaa462315a76023555154
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Mon May 20 19:14:01 2024 -0600
+
+    Ignorando archivos .exe
+
+commit dd33c48e9d65d7f718d94d73166762bd52492192
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 16 20:40:30 2024 -0600
+
+    Creando licencia del repositorio
+
+commit 10b2afc9675d9d429d7841295cde08f9680a1fc8
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 16 20:29:57 2024 -0600
+
+    Agregando mas contenido al readme
+
+commit 6151751ee3a6724a01b4d46edee8444ec1da409c
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 16 20:11:49 2024 -0600
+
+    Agregando contenido inicial al readme
+
+commit 40b8af35bdceb402b10aa698b30e0f2342b0914f
+Author: eedgar3 <eedgar.bp3@gmail.com>
+Date:   Thu May 16 20:08:34 2024 -0600
+
+    Primer commit 😃
